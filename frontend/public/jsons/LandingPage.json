@@ -2,12 +2,30 @@
   "navbar": {
     "logo": "Elizabeth Filips",
     "links": [
-      { "title": "Articles", "path": "/articles" },
-      { "title": "Book Notes", "path": "/booknotes" },
-      { "title": "Newsletter", "path": "/newsletter" },
-      { "title": "Podcast", "path": "/podcast" },
-      { "title": "YouTube", "path": "/youtube" },
-      { "title": "Contact", "path": "contact" }
+      {
+        "title": "Articles",
+        "path": "/articles"
+      },
+      {
+        "title": "Book Notes",
+        "path": "/booknotes"
+      },
+      {
+        "title": "Newsletter",
+        "path": "/newsletter"
+      },
+      {
+        "title": "Podcast",
+        "path": "/podcast"
+      },
+      {
+        "title": "YouTube",
+        "path": "/youtube"
+      },
+      {
+        "title": "Contact",
+        "path": "contact"
+      }
     ]
   },
   "hero": {
@@ -132,7 +150,28 @@
     "logo": "Elizabeth Filips",
     "resources": {
       "title": "Resources",
-      "links": [{"title": "Articles", "link":"/articles"}, {"title":"Book Notes", "link":"/booknotes"}, {"title":"Podcast", "link":"/podcast"}, {"title":"Youtube", "link":"/youtube"}, {"title":"About", "link":"/contact"}]
+      "links": [
+        {
+          "title": "Articles",
+          "link": "/articles"
+        },
+        {
+          "title": "Book Notes",
+          "link": "/booknotes"
+        },
+        {
+          "title": "Podcast",
+          "link": "/podcast"
+        },
+        {
+          "title": "Youtube",
+          "link": "/youtube"
+        },
+        {
+          "title": "About",
+          "link": "/contact"
+        }
+      ]
     },
     "contact": {
       "title": "Contact",
@@ -172,7 +211,7 @@
     },
     "credits": {
       "copyrights": "© 2025 Elizabeth Filips. All rights reserved.",
-      "credits": "Reimagined by Prajwal.D Ghadigaonkar"
+      "credits": "Bhatkar Sakib"
     }
   }
 }

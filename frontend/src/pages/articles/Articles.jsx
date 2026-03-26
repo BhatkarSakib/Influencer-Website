@@ -2,7 +2,7 @@ import { useContext } from "react";
 import { ContextAPI } from "../../context/ContextAPI";
 
 import clsx from "clsx";
-import MyThoughts from "./mythoughts/Mythoughts";
+import MyThoughts from "./mythoughts/MyThoughts"
 
 
 const Articles = () => {
@@ -16,7 +16,7 @@ const Articles = () => {
           "lg:gap-[2vw] lg:pt-[5vw] lg:min-h-[100vh]"
         )}
       >
-        <MyThoughts myThoughts = {myThoughts}/>
+        <MyThoughts myThoughts={myThoughts} />
       </main>
     </>
   );
