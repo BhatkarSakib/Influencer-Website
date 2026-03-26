@@ -1,4 +1,4 @@
-# 🚀 Hackathon: Re-Imagine Influencer Websites
+# 🚀 Influencer Websites
 
 **Live Preview:** [View on Netlify](https://hackthon-reimagine-influencer-website.netlify.app/)  
 **Original Inspiration:** [Elizabeth Filips](https://www.elizabethfilips.com/)
